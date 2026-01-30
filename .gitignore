@@ -8,7 +8,8 @@ __pycache__/
 venv/
 
 # Data (raw data not tracked)
-data/raw/*.csv
+01 data/raw/*.csv
+01 data/*
 
 # IDE / OS
 .vscode/
